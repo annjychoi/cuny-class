@@ -1,9 +1,12 @@
 ```
-title: This will be used as the title-tag of the page head
-
-hello
+title: Weekly schedule
 =====
 ```
-**You are here!
-### header
+### Week 1
+
+### Week 2
+
+### Week 3 
+
+### Week 4
 
