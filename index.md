@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Interacitivty & Data
 
 You can use the [editor on GitHub](https://github.com/annjychoi/cuny-class/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Syllabus
+### Assignment
 
 ### Jekyll Themes
 
