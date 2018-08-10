@@ -1,6 +1,5 @@
 ```
 title: Weekly schedule
-=====
 ```
 ### Week 1
 
