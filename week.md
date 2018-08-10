@@ -1,5 +1,5 @@
 ```
-title: Weekly schedule
+Week-by-Week:
 ```
 ### Week 1
 
