@@ -10,7 +10,7 @@
 
 ### Week 2 
 (Sept. 6)- Paper Prototyping 
-* Create a plan for covering a major news event during the initial breaking news and ongoing coverage. Select your team, determine the skills you need and decide what each team member will be doing.
+*Create a plan for covering a major news event during the initial breaking news and ongoing coverage. Select your team, determine the skills you need and decide what each team member will be doing.
 * Plan an interactive project as part of your coverage and create a paper prototype or wireframe to explain your concept and how it will work. 
 * Incorporate the user experience in your design decisions and detail these considerations in your site description. You’ll present your idea in front of the class -- pretend your classmates are the editors of your publication. 
 
