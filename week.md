@@ -1,9 +1,9 @@
 ```
-```
+
 
 
 ### Week 1 
-*(Aug. 30) - Overview: What's Interactive Data Journalism?
+(Aug. 30) - Overview: What's Interactive Data Journalism?
 * Presentation of wide-ranging set of examples that showcase the use of coding and design to enhance storytelling
 * Introductions
 * Syllabus review
@@ -102,3 +102,4 @@
 *A selected group of students each present one of the final products. Their peers provide constructive feedback. 
 
 
+```
