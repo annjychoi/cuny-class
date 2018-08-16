@@ -13,7 +13,7 @@ You might already know that you are not a visual person or a developer. Still, k
 Because I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please ask away all questions. 
 
 #### Office hours & Contact
-By appointment or Fridays 6:30-8:00 p.m.
+By appointment only
 CUNY email: ann.choi@journalism.cuny.edu
 Personal: annjychoi@gmail.com 
 
@@ -26,7 +26,7 @@ This three-credit course introduces students to conceptualizing and producing co
 
 The course covers fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
 
-**Course Learning Objectives
+**Course Learning Objectives***
 
 You will leave this course with experience in:
 
@@ -42,6 +42,8 @@ You will leave this course with experience in:
 
 
 ## Assignment
+
+All assignments are due on Wednesdays. You must meet the deadline. See below for details on the guideline. If you need extension, you must contact me 72 hours before the deadline.  
 
 ***No. 1 — Paper prototype of an interactive feature***
 
@@ -84,7 +86,7 @@ Logistics
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
-By Nov. 14 at 10 p.m., pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**By Wednesday, Nov. 14 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
 
 Write a minimum 150-word piece (including the quote) and create a chart.
 
@@ -97,7 +99,7 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic, centered above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due Nov. 29 by 10 p.m..
+The final assignment is due **Wednesday, Nov. 28 by 10 p.m.**
 
 ***No. 4 — Mapping***
 
@@ -116,7 +118,7 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic as an illustration, centered. above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due Dec. 13 by 10 p.m..
+The final assignment is due **Wednesday, Dec. 12 by 10 p.m.**
 
 ### Grading Rubric
 
