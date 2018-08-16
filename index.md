@@ -4,18 +4,19 @@
 
 **Instructor**
 
-I'm Ann. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel, Miami Herald, Austin American-Statesman and KUT, an NPR affiliate in Austin, Texas. 
+I'm Ann. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel, Miami Herald and Austin American-Statesman.  
 
-I am most comfortable with cleaning up and analyzing data in a spreadsheet or R but I often am required to my analysis into charts or maps and work closely with web developers and designers in the newsroom.  
+I am most comfortable with finding data, analyzing it in a spreadsheet or R and writing stories. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
 
-You might already know that you are not a visual person or a developer. Still, knowing the fundamentals and being able to communicate your reporting in interactive and data-driven medium will carry your stories much further.  
+You might already know that you are not a visual person or a developer. Still, knowing the fundamentals of multimedia storytelling and being able to communicate your reporting in interactive and data-driven medium will carry your stories much further.  
 
-Because I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please ask away all questions. 
+Because I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
 #### Office hours & Contact
 By appointment only
-CUNY email: ann.choi@journalism.cuny.edu
-Personal: annjychoi@gmail.com 
+
+* CUNY email: ann.choi@journalism.cuny.edu
+* Personal: annjychoi@gmail.com 
 
 
 ## Syllabus
