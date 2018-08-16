@@ -53,7 +53,7 @@ Your hand-drawn prototype must include:
 *	A wireframe for each photo and interactive element
 *	A visual illustration of what happens when a user clicks on interactive elements.
 *	You’ll present your idea in front of the class following week when you will pretend your classmates are the editors of your publication.
-•	Here's an example from last year
+*	Here's an example from last year
 
 **Due: Wednesday, Sept. 12 at 10 p.m. **
 Showing: During class Thursday, Sept. 13.
