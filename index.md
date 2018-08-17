@@ -8,9 +8,9 @@ I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative re
 
 I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
 
-I see great value in this course because it entails a lot of skills  that not only I use everyday in my newsroom and but also sought after in the industry. 
+I'm excited to teach this course  because it encompasse a lot of skills that not only I use everyday in my newsroom and but also sought after in the industry. 
 
-You might already know that you don't wish to be a web developer, designer or a data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther, especially online. Also, you will make allies of  varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
+You might already know that you have no plans to become a web developer, designer or data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther, especially online. Also, you will make allies of  varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
 
 Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
