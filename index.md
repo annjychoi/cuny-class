@@ -1,16 +1,18 @@
-## Interacitivty & Data
+# Interacitivty & Data
 
 #### Classes: Thursdays, 5:30 - 8:30 pm. 
 
 **Instructor**
 
-I'm Ann. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel, Miami Herald and Austin American-Statesman.  
+I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel.
 
-I am most comfortable with finding data, analyzing it in a spreadsheet or R and writing stories. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
+I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
 
-You might already know that you are not a visual person or a developer. Still, knowing the fundamentals of multimedia storytelling and being able to communicate your reporting in interactive and data-driven medium will carry your stories much further.  
+I see great value in this course because it entails a lot of skills  that not only I use everyday in my newsroom and but also sought after in the industry. 
 
-Because I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
+You might already know that you don't wish to be a web developer, designer or a data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther, especially online. Also, you will make allies of  varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
+
+Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
 #### Office hours & Contact
 By appointment only
@@ -27,7 +29,7 @@ This three-credit course introduces students to conceptualizing and producing co
 
 The course covers fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
 
-**Course Learning Objectives***
+**Course Learning Objectives**
 
 You will leave this course with experience in:
 
