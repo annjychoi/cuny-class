@@ -60,7 +60,7 @@ Your hand-drawn prototype must include:
 *	You’ll present your idea in front of the class following week when you will pretend your classmates are the editors of your publication.
 *	Here's an example from last year
 
-**Due: Wednesday, Sept. 12 at 10 p.m. **
+**Due: Wednesday, Sept. 12 at 10 p.m.**
 Showing: During class Thursday, Sept. 13.
 
 ***No. 2 — HTML/CSS Web page***
@@ -148,13 +148,12 @@ Grading for individual assignments is based on the quality of the finished work:
 
 Assignment|	Percentage Value
 --------- | -----------
-Readings & Quizzes|10%
-In-class participation/professionalism|15%
+In-class participation/professionalism|20%
 Paper prototype|15%
 HTML/CSS Assignment|15%
 Data-viz Assignment|15%
 Map Assignment|15%
-In-class exercises|15%
+In-class exercises|20%
 Total|100%
 
 ### Deadlines
