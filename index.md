@@ -180,7 +180,7 @@ It's critical that students learn to include a diverse set of voices in their st
 
 ### Coaches 
 Name |	Coach Expertise | Hours | Offie Location | Email
---------- | ------------| -----|-----------------|-------
+-----| -----------------| ------|----------------|-------
 Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment | Newsroom | kirsti.itameri@journalism.cuny.edu
 TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm | Newsroom |tc.mccarthy@journalism.cuny.edu
 Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm | Newsroom | malik.singleton@journalism.cuny.edu
