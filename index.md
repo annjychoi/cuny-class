@@ -1,25 +1,7 @@
 # Interacitivty & Data
 
-#### Classes: Thursdays, 5:30 - 8:30 pm. 
-
-**Instructor**
-
-I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel.
-
-I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
-
-I'm excited to teach this course  because it encompasse a lot of skills that I use everyday and they are highly sought after in the industry. 
-
-You might already know that you have no plans to become a web developer, designer or data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther. Also, you will make allies with varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
-
-Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
-
-#### Office hours & Contact
-By appointment only
-
-* CUNY email: ann.choi@journalism.cuny.edu
-* Personal: annjychoi@gmail.com 
-
+## Classes: Thursdays, 5:30 - 8:30 pm. 
+## Room: 436 
 
 ## Syllabus
 
@@ -43,29 +25,32 @@ You will leave this course with experience in:
 * Reporting and producing stories with data and interactivity
 * Crafting questions to ensure receive technical guidance from web programming communities
 
+**Instructor**
+
+I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel.
+
+I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
+
+I'm excited to teach this course  because it encompasse a lot of skills that I use everyday and they are highly sought after in the industry. 
+
+You might already know that you have no plans to become a web developer, designer or data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther. Also, you will make allies with varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
+
+Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
+
+#### Office hours & Contact
+By appointment only
+
+* CUNY email: ann.choi@journalism.cuny.edu
+* Personal: annjychoi@gmail.com 
+
+
 
 ## Assignment
 
 All assignments are due on Wednesdays. You must meet the deadline. See below for details on the guideline. If you need extension, you must contact me 72 hours before the deadline.  
 
-***No. 1 — Paper prototype of an interactive feature***
 
-Create a plan for covering a major news event during the initial breaking news and ongoing coverage. Select your team, determine the skills you need and decide what team member will be doing.
-Plan an interactive project as part of your coverage and create a paper prototype or wireframe to explain your concept and how it will work.
-
-Your hand-drawn prototype must include:
-*	A placeholder headline
-*	A wireframe for each photo and interactive element
-*	A visual illustration of what happens when a user clicks on interactive elements.
-*	You’ll present your idea in front of the class following week when you will pretend your classmates are the editors of your publication.
-* An exmaple from last yers https://www.scribd.com/document/357535255/Who-Am-i-Giving-Money-Exactly
-
-
-**Due: Wednesday, Sept. 12 at 10 p.m.**
-**Showing:** During class Thursday, Sept. 13.
-**File here:**
-
-***No. 2 — HTML/CSS Icon Graphic***
+***No. 1 — HTML/CSS Icon Graphic***
 
 Using edited text and images from your Craft of Reporting class, create graphic related to a news story you are working on. 
 
@@ -87,7 +72,7 @@ Logistics
 **Due: Wednesday, Oct. 17 at 10 p.m.** 
 **File here: 
 
-***No. 3 — Data chart***
+***No. 2 — Data chart***
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
@@ -108,7 +93,7 @@ Build your own HTML/CSS responsive page with the following:
 The final assignment is due **Wednesday, Nov. 16 by 10 p.m.**
 **File here**
 
-***No. 4 — Mapping***
+***No. 3 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
 **By Nov. 28 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
@@ -154,12 +139,11 @@ Grading for individual assignments is based on the quality of the finished work:
 
 Assignment|	Percentage Value
 --------- | -----------
-In-class participation/professionalism|20%
-Paper prototype|15%
-HTML/CSS Assignment|15%
-Data-viz Assignment|15%
-Map Assignment|15%
-In-class exercises|20%
+In-class participation/professionalism|10%
+HTML/CSS Assignment|25%
+Data-viz Assignment|25%
+Map Assignment|25%
+Attendance|15%
 Total|100%
 
 ### Deadlines
@@ -192,5 +176,11 @@ When in doubt: ask.
 
 ### Importance of Diversity
 It's critical that students learn to include a diverse set of voices in their stories -- something that is often glossed over when telling stories through charts and graphics. You are encouraged to look for stories about and voices from communities that are underrepresented.
- 
 
+
+### Coaches 
+Name |	Coach Expertise | Hours | Offie Location | Email
+--------- | ------------| -----|-----------------|-------
+Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment | Newsroom | kirsti.itameri@journalism.cuny.edu
+TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm | Newsroom |tc.mccarthy@journalism.cuny.edu
+Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm | Newsroom | malik.singleton@journalism.cuny.edu
