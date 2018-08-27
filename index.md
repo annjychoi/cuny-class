@@ -58,25 +58,26 @@ Your hand-drawn prototype must include:
 *	A wireframe for each photo and interactive element
 *	A visual illustration of what happens when a user clicks on interactive elements.
 *	You’ll present your idea in front of the class following week when you will pretend your classmates are the editors of your publication.
-*	Here's an example from last year
+* An exmaple from last yers https://www.scribd.com/document/357535255/Who-Am-i-Giving-Money-Exactly
+
 
 **Due: Wednesday, Sept. 12 at 10 p.m.**
-Showing: During class Thursday, Sept. 13.
+**Showing:** During class Thursday, Sept. 13.
+**File here:**
 
-***No. 2 — HTML/CSS Web page***
+***No. 2 — HTML/CSS Icon Graphic***
 
-Using edited text and images from your Craft of Reporting class, create a page using HTML and style it with CSS.
+Using edited text and images from your Craft of Reporting class, create graphic related to a news story you are working on. 
+
 You should have the following elements:
 *	Headline
-*	A photo 700px wide centered below the headline and byline, with a caption and credit
-*	News copy (the text)
-*	About ¼ of the way down, you must have a graphic made of three portraits (each 200px wide), with a credit
-*	Each portrait must have a quote below it and the name of the person quoted (aligned right at the bottom of photo).
-*	A related individual tweet embedded in appropriate spots in the text
-*	At least three links to related information or articles
-*	You must comment your CSS. What is each line or section accomplishing?
-*	When the browser window is resized, the content must be responsive.
-*	Is the folder hierarchy as instructed during the lessons (proper naming convention, index.html, all lowercase, no spaces, etc.)
+* At least four icons that represent some important facet of your story.
+* Write a short paragraph that conveys an important data point attached to each icon as it relates to the news story.
+* Build the graphic using ONLY HTML and CSS.
+* Use pre-designed, royalty-free icons.
+* Include your name and data somewhere at the bottom of your graphic
+* You MUST use the design the principles we’ve discussed — pay attention to font, hierarchy and color.	
+
 Logistics
 *	Your project folder should be the name of your project slug (one or two words)
 *	Remember to use proper file names (index.html, all lowercase, etc)
@@ -84,12 +85,14 @@ Logistics
 *	FTP to your hosting service
 *	Figure out the URL (web address) for your piece.
 **Due: Wednesday, Oct. 17 at 10 p.m.** 
+**File here: 
 
 ***No. 3 — Data chart***
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
-**By Wednesday, Nov. 14 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**By Wednesday, Nov. 7 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**File here:**
 
 Write a minimum 150-word piece (including the quote) and create a chart.
 
@@ -102,12 +105,13 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic, centered above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Nov. 28 by 10 p.m.**
+The final assignment is due **Wednesday, Nov. 16 by 10 p.m.**
+**File here**
 
 ***No. 4 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
-By Dec. 5 at 10 p.m., pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**By Nov. 28 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
 
 Write a minimum 150 to 250 word piece (including a quote from the expert) and create a map.
 
@@ -121,7 +125,8 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic as an illustration, centered. above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Dec. 12 by 10 p.m.**
+The final assignment is due **Wednesday, Dec. 5 by 10 p.m.**
+**File here:**
 
 ### Grading Rubric
 
@@ -144,6 +149,7 @@ Grading for individual assignments is based on the quality of the finished work:
 * A: High quality student work with minimal editing required.
 * B: Good quality student work.
 * C: Unsatisfactory work.
+* D: Painfl to review. 
 * F: Atrocious, unacceptable work.
 
 Assignment|	Percentage Value
