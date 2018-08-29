@@ -1,7 +1,7 @@
 # Interacitivty & Data
 
-## Classes: Thursdays, 5:30 - 8:30 pm. 
-## Room: 436 
+## Classes: Thursdays, 5:30 - 8:20 pm. 
+### Room: 436 ###
 
 ## Syllabus
 
@@ -38,7 +38,7 @@ You might already know that you have no plans to become a web developer, designe
 Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
 #### Office hours & Contact
-By appointment only
+Thursday 3-5 pm or by appointment 
 
 * CUNY email: ann.choi@journalism.cuny.edu
 * Personal: annjychoi@gmail.com 
@@ -70,7 +70,7 @@ Logistics
 *	FTP to your hosting service
 *	Figure out the URL (web address) for your piece.
 **Due: Wednesday, Oct. 17 at 10 p.m.** 
-**File here: 
+**File here:** 
 
 ***No. 2 — Data chart***
 
@@ -90,13 +90,13 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic, centered above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Nov. 16 by 10 p.m.**
-**File here**
+The final assignment is due **Wednesday, Nov. 14 by 10 p.m.**
+**File here:**
 
 ***No. 3 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
-**By Nov. 28 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**By Wednesday, Dec. 5 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
 
 Write a minimum 150 to 250 word piece (including a quote from the expert) and create a map.
 
@@ -110,7 +110,7 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic as an illustration, centered. above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Dec. 5 by 10 p.m.**
+The final assignment is due **Wednesday, Dec. 12 by 10 p.m.**
 **File here:**
 
 ### Grading Rubric
