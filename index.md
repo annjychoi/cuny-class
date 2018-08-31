@@ -1,4 +1,4 @@
-# Interacitivty & Data
+# Interacitivity & Data
 
 ## Classes: Thursdays, 5:30 - 8:20 pm. 
 ### Room: 436 ###
