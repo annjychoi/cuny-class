@@ -38,7 +38,7 @@ You might already know that you have no plans to become a web developer, designe
 Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
 #### Office hours & Contact
-Thursday 3-5 pm or by appointment 
+Thursday 3-5 pm or by appointment.  
 
 * CUNY email: ann.choi@journalism.cuny.edu
 * Personal: annjychoi@gmail.com 
@@ -47,7 +47,7 @@ Thursday 3-5 pm or by appointment
 
 ## Assignment
 
-All assignments are due on Wednesdays. You must meet the deadline. See below for details on the guideline. If you need extension, you must contact me 72 hours before the deadline.  
+All assignments are due on Wednesdays. You must meet the deadline. See below for details on the guideline. If you need extension, you must contact me 72 hours before the deadline.  You will email me your assignment using appropriate slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
 
 
 ***No. 1 — HTML/CSS Icon Graphic***
@@ -69,15 +69,14 @@ Logistics
 *	Have proper folder/file hierarchy
 *	FTP to your hosting service
 *	Figure out the URL (web address) for your piece.
+
 **Due: Wednesday, Oct. 17 at 10 p.m.** 
-**File here:** 
 
 ***No. 2 — Data chart***
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
 **By Wednesday, Nov. 7 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
-**File here:**
 
 Write a minimum 150-word piece (including the quote) and create a chart.
 
@@ -91,14 +90,12 @@ Build your own HTML/CSS responsive page with the following:
 *	You will FTP the content to your site
 
 The final assignment is due **Wednesday, Nov. 14 by 10 p.m.**
-**File here:**
 
 ***No. 3 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
 
 **By Wednesday, Dec. 5 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
-**File here:**
 
 Write a minimum 150 to 250 word piece (including a quote from the expert) and create a map.
 
@@ -113,7 +110,6 @@ Build your own HTML/CSS responsive page with the following:
 *	You will FTP the content to your site
 
 The final assignment is due **Wednesday, Dec. 12 by 10 p.m.**
-**File here:**
 
 ### Grading Rubric
 
@@ -180,9 +176,10 @@ When in doubt: ask.
 It's critical that students learn to include a diverse set of voices in their stories -- something that is often glossed over when telling stories through charts and graphics. You are encouraged to look for stories about and voices from communities that are underrepresented.
 
 
-### Coaches 
-Name |	Coach Expertise | Hours | Offie Location | Email
------| -----------------| ------ |---------------|-------
-Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment | Newsroom | kirsti.itameri@journalism.cuny.edu
-TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm | Newsroom | tc.mccarthy@journalism.cuny.edu
-Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm | Newsroom | malik.singleton@journalism.cuny.edu
+### Coaches ###
+Name |	Coach Expertise | Hours | Offie Location 
+-----| -----------------| ------ |--------------
+Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment 
+TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm 
+Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm 
+Nicolas Wells | Interactive Journalism: Data Storytelling, HTML, CSS, R | Tuesdays 6:00 - 8:30 p.m. 
