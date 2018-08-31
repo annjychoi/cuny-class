@@ -52,7 +52,7 @@ All assignments are due on Wednesdays. You must meet the deadline. See below for
 
 ***No. 1 — HTML/CSS Icon Graphic***
 
-Using edited text and images from your Craft of Reporting class, create graphic related to a news story you are working on. 
+Create graphic related to a news story you are working on.
 
 You should have the following elements:
 *	Headline
@@ -96,7 +96,9 @@ The final assignment is due **Wednesday, Nov. 14 by 10 p.m.**
 ***No. 3 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
+
 **By Wednesday, Dec. 5 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**File here:**
 
 Write a minimum 150 to 250 word piece (including a quote from the expert) and create a map.
 
@@ -180,7 +182,7 @@ It's critical that students learn to include a diverse set of voices in their st
 
 ### Coaches 
 Name |	Coach Expertise | Hours | Offie Location | Email
------| -----------------| ------|----------------|-------
+-----| -----------------| ------ |---------------|-------
 Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment | Newsroom | kirsti.itameri@journalism.cuny.edu
-TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm | Newsroom |tc.mccarthy@journalism.cuny.edu
+TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm | Newsroom | tc.mccarthy@journalism.cuny.edu
 Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm | Newsroom | malik.singleton@journalism.cuny.edu
