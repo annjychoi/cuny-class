@@ -47,7 +47,7 @@ Thursday 3-5 pm or by appointment.
 
 ## Assignment
 
-All assignments are due on Wednesdays. You must meet the deadline. See below for details on the guideline. If you need extension, you must contact me 72 hours before the deadline.  You will email me your assignment using appropriate slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
+You must meet the deadline. If you need extension, you must contact me 72 hours before the deadline. You will file your assignment via email using the correct slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
 
 
 ***No. 1 — HTML/CSS Icon Graphic***
@@ -120,14 +120,14 @@ In assessing students' final project, the instructor will focus on the following
 *	Effort and Application: Has the work been prepared with careful thought and attention to detail, and does it take appropriate advantage of the relevant tools?
 *	Punctuality and Completeness: Is it on time and complete, and does it fulfill the assignment?
 
-For Discussions
+**For Discussions**
 *	Preparedness: Has the student completed the work necessary in preparation for the discussion (viewing assigned video, completing assigned reading or tutorial)?
 *	Participation: Was the student engaged in the discussion (both paying attention and participating)?
 For In-class Exercises
 *	Effort: Did the student try to complete the exercise to better understand the lesson at hand?
 *	Participation: If the exercise involves collaboration, did the student contribute?
 
-Assignment Values
+**Assignment Values**
 Grading for individual assignments is based on the quality of the finished work:
 * A: High quality student work with minimal editing required.
 * B: Good quality student work.
@@ -135,7 +135,7 @@ Grading for individual assignments is based on the quality of the finished work:
 * D: Painfl to review. 
 * F: Atrocious, unacceptable work.
 
-Attendance
+**Attendance**
 You will loose one grade point for each unexcused absence. Let me know at least three days in advance if you will be absent and why.  
 
 Assignment|	Percentage Value
@@ -149,7 +149,7 @@ Total|100%
 
 ### Deadlines
 
-You must meet Deadlines by filing your assignments no later than due date and time. Missing a deadline results in an automatic half-grade reduction. Your grade will continue to drop by half a grade for each subsequent day after the deadline until you file your assignment.
+You must meet deadlines by filing your assignments no later than due date and time. Missing a deadline results in an automatic half-grade reduction. Your grade will continue to drop by half a grade for each subsequent day after the deadline until you file your assignment.  
 
 Plan ahead and remember that in journalism: done is better than perfect. It will always be better to hand in something than nothing. If you are having trouble with your assignment let me know immediately, do not wait until it is too late.
 
