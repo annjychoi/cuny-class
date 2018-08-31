@@ -135,6 +135,9 @@ Grading for individual assignments is based on the quality of the finished work:
 * D: Painfl to review. 
 * F: Atrocious, unacceptable work.
 
+Attendance
+You will loose one grade point for each unexcused absence. Let me know at least three days in advance if you will be absent and why.  
+
 Assignment|	Percentage Value
 --------- | -----------
 In-class participation/professionalism|10%
@@ -177,8 +180,9 @@ It's critical that students learn to include a diverse set of voices in their st
 
 
 ### Coaches ###
-Name |	Coach Expertise | Hours | Offie Location 
------| -----------------| ------ |--------------
+
+Name |	Coach Expertise | Hours 
+-----| -----------------| ------ 
 Kirsti Itameri | Interactive Journalism: Design, WordPress, Illustrator, Photoshop, Social Media | Tuesdays 6:30-8:30 pm or by appointment 
 TC McCarthy | Interactive Journalism: Coding | Thursdays 4-6pm 
 Malik Singleton | Interactive Journalism: Data Storytelling, WordPress, HTML, CSS | Mondays 5:30-7:30pm 
