@@ -28,7 +28,7 @@
 * Google Fonts
 
 ### Week 4 
-**(Sept. 26) - Intro to HTML/CSS Layouts **
+**(Sept. 26) - Intro to HTML/CSS Layouts**
 * Review week 1
 * Inline styling with CSS
 * External styling
