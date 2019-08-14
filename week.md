@@ -9,8 +9,7 @@
 ### NO CLASS ON Thursday, Sept 5, 2019 
 
 ### Week 2
-**(Sept. 12)- Intro to HTML/CSS 1 **
-
+**(Sept. 12)- Intro to HTML/CSS 1**
 * What are HTML & CSS? 
 * Introduction to Text Editor 
 * Dev tools and debuggin 
