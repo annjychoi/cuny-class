@@ -97,7 +97,7 @@
 * Taking the HTML/CSS we've learned, we customize mapping with Carto
 
 ### Week 14
-**(Dec. 12) - Workshop*
+**(Dec. 12) - Workshop**
 * This week is a buffer for catchup and help.
 
 ### Week 15 
