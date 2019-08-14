@@ -27,7 +27,7 @@ You will leave this course with experience in:
 
 **Instructor**
 
-I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative reporter for Newsday. Previously, I worked at the Sun Sentinel.
+I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative reporter for THE CITY. Previously, I worked at Newsday and Sun Sentinel.
 
 I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
 
@@ -70,13 +70,13 @@ Logistics
 *	FTP to your hosting service
 *	Figure out the URL (web address) for your piece.
 
-**Due: Wednesday, Oct. 17 at 10 p.m.** 
+**Due: Wednesday, Oct. 16 at 10 p.m.** 
 
 ***No. 2 — Data chart***
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
-**By Wednesday, Nov. 7 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
+**By Wednesday, Nov. 6 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
 
 Write a minimum 150-word piece (including the quote) and create a chart.
 
@@ -109,7 +109,7 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic as an illustration, centered. above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Dec. 12 by 10 p.m.**
+The final assignment is due **Wednesday, Dec. 11 by 10 p.m.**
 
 ### Grading Rubric
 
