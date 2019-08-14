@@ -14,6 +14,7 @@
 * Introduction to Text Editor 
 * Dev tools and debuggin 
 * Assignment 1 
+
 ### Week 3
 **(Sept. 19) - Design Principles for Web/Mobile 1**
 * Why learn HTML/CSS?
