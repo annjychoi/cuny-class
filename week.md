@@ -6,7 +6,7 @@
 * Introductions
 * Syllabus review
 
-### NO CLASS ON Thursday, Sept 5, 2019 
+### NO CLASS ON THURSDAY, SEPT 5, 2019 
 
 ### Week 2
 **(Sept. 12)- Intro to HTML/CSS 1**
