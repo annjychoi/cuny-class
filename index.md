@@ -37,7 +37,7 @@ You might already know that you have no plans to become a web developer, designe
 
 Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
-** Google Classroom* 
+**Google Classroom 
 
 Google Classroom will be our main portal of communication and submitting assignments. I will post slides, assignments and any other announcements. Make sure you check regularly. 
 
