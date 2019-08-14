@@ -16,7 +16,6 @@
 * Assignment 1 
 ### Week 3
 **(Sept. 19) - Design Principles for Web/Mobile 1**
-
 * Why learn HTML/CSS?
 * HTML/CSS continuted 
 * Typography
@@ -47,7 +46,7 @@
 * Uploading to hosting service
 
 ### Week 6 
-**(Oct. 10) - What's the story in the dataset 1? **
+**(Oct. 10) - What's the story in the dataset 1?**
 * Numeracy (normalize, percentages, rates, parts of a whole)
 * Basic Excel tutorial (mean, median, mode, sum)
 * What's the story? 
