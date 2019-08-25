@@ -31,9 +31,9 @@ I'm Ann Choi Fitzpatrick. My byline is Ann Choi. I'm a data and investigative re
 
 I am most comfortable with finding data, analyzing it in a spreadsheet or R. I often am required to turn my analysis into charts or maps for my editors, well before I write up a draft. I also work closely with developers and graphic reporters in the newsroom.  
 
-I'm excited to teach this course  because it encompasse a lot of skills that I use everyday and they are highly sought after in the industry. 
+I'm excited to teach this course  because it encompasse a lot of skills that I use everyday and they are highly sought after in the industry regardless of your beat. 
 
-You might already know that you have no plans to become a web developer, designer or data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther. Also, you will make allies with varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
+You might already know that you have no plans to become a web developer, designer or data reporter.  Still, being able to communicate your reporting in interactive and data-driven terms will carry your stories much farther than words alone can. Also, you will make allies with varied backgrounds in your newsroom more easily because you will have basic understanding (and appreciation) of their expertise. 
 
 Lastly, I also attended a graduate school for a journalism degree (hook'em!), I'd like to think that we already have something in common. Please don't hesitate to ask for help or any questions. 
 
@@ -53,7 +53,7 @@ Thursday 3-5 pm or by appointment.
 
 ## Assignment
 
-You must meet the deadline. If you need extension, you must contact me 72 hours before the deadline. You will file your assignment via email using the correct slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
+You must meet the deadline. If you need extension, you must contact me 72 hours before the deadline. You will file your assignment via Goolge Classroom using the correct slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
 
 
 ***No. 1 — HTML/CSS Icon Graphic***
