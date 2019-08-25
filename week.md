@@ -53,7 +53,7 @@
 * What's the story? 
 
 ### Week 7 
-**(Oct. 17) - What's the story in the dataset 2?**
+**(Oct. 17) - What's the story in the dataset 2? ASSIGNMENT 1 DUE WEDNESDAY (Oct. 16) **
 * Excel 2 (formulas including CountIf, Sumif)
 * Numeracy (sampling, probability, writing comparisons)
 * Finding and exploring data sets 
@@ -77,7 +77,7 @@
 
 
 ### Week 10 
-**(Nov. 7) - Charts & Graphs 2 & Free tools**
+**(Nov. 7) - Charts & Graphs 2 & Free tools ASSIGNMENT 2 DUE WEDNESDAY (Nov. 6) **
 * Stacked Bar or Column Charts
 * Tables
 * Scatter Plot
@@ -100,7 +100,7 @@
 ### THANKSGIVING BREAK 
 
 ### Week 13
-**(Dec. 5) - Mapping Data 2** 
+**(Dec. 5) - Mapping Data 2 ASSIGNMENT 3 DUE WEDNESDAY (Dec 4) ** 
 * Taking the HTML/CSS we've learned, we customize mapping with Carto
 
 ### Week 14
