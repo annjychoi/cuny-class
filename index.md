@@ -115,7 +115,7 @@ Build your own HTML/CSS responsive page with the following:
 *	A photograph that reflects the topic as an illustration, centered. above the headline, with a caption and credit
 *	You will FTP the content to your site
 
-The final assignment is due **Wednesday, Dec. 11 by 10 p.m.**
+The final assignment is due **Thurdsay, Dec. 12 by end of class**
 
 ### Grading Rubric
 
