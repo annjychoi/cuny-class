@@ -55,8 +55,19 @@ Thursday 3-5 pm or by appointment.
 
 You must meet the deadline. If you need extension, you must contact me 72 hours before the deadline. You will file your assignment via Goolge Classroom using the correct slug in the subject line. Your slug is your last name and the assignment: for example, CHOIGRPAHICPITCH or CHOIGRAPHIC.  
 
+***No.1 Interactive news presentation***
+Due: TBD 
 
-***No. 1 — HTML/CSS Icon Graphic***
+We’ll start each class period with a presentation evaluating the interactive techniques used in stories published by major media outlets. The project needs to have been published during the span of the semester (between August-December 2019). I’ll assign your presentation dates the first week of class. 
+
+These presentations should last about 10-15 minutes, and you should cover: 
+Identify the tools and techniques used in this story. 
+Compare use of this technique to other uses of a similar technique.. 
+Propose another use of this technique. How else could you imagine using this to tell another story?
+Evaluate the effectiveness of this technique. What does it bring to this story? How could it have been improved? 
+
+
+***No. 2 — HTML/CSS Icon Graphic***
 
 Create graphic related to a news story you are working on.
 
@@ -78,7 +89,7 @@ Logistics
 
 **Due: Wednesday, Oct. 16 at 10 p.m.** 
 
-***No. 2 — Data chart***
+***No. 3 — Data chart***
 
 You'll Find a topic you are interested in that involves data and datasets. Analyze it as you did for the homework assignment to find interesting, timely patterns or trends.
 
@@ -97,7 +108,7 @@ Build your own HTML/CSS responsive page with the following:
 
 The final assignment is due **Wednesday, Nov. 14 by 10 p.m.**
 
-***No. 3 — Mapping***
+***No. 4 — Mapping***
 
 This is a news short story -- 150-250 words -- that has a geographic component which you will illustrate using a map or maps.
 
@@ -146,7 +157,7 @@ You will loose one grade point for each unexcused absence. Let me know at least 
 
 Assignment|	Percentage Value
 --------- | -----------
-In-class participation/professionalism|10%
+Interactive News presentation|10%
 HTML/CSS Assignment|25%
 Data-viz Assignment|25%
 Map Assignment|25%
