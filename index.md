@@ -95,12 +95,12 @@ You'll Find a topic you are interested in that involves data and datasets. Analy
 
 **By Wednesday, Nov. 6 at 10 p.m.**, pitch me your idea (why is it interesting, timely and insightful. Once I approve the pitch, call an expert on that subject who can evaluate the relevance and accuracy of the concept/trend you found in the data.
 
-Write a minimum 150-word piece (including the quote) and create a chart.
+Write a minimum 250-word piece (including the quote) and create a chart.
 
 Build your own HTML/CSS responsive page with the following:
 *	Headline
 *	Byline
-*	Your 150-word max text
+*	Your minimum 250-word text
 *	Chart with caption aligned left or right
 *	Link to original data set
 *	A photograph that reflects the topic, centered above the headline, with a caption and credit
